@@ -4,7 +4,7 @@
   "value": {
     "key": "ashtray",
     "chain-id": "STRIDE-TESTNET-4",
-    "rpc-addr": "http://127.0.0.1:26657",
+    "rpc-addr": "http://38.242.145.121:26657",
     "account-prefix": "stride",
     "keyring-backend": "test",
     "gas-adjustment": 1.2,
